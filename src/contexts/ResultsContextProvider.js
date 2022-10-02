@@ -7,9 +7,10 @@ export const ResultContextProvider =({children}) => {
     const [results, setResults] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
     const [searchTerm, setSearchTerm]= useState('Elon Musk');
-
     const getResults= async (type) => {
+        console.log("type is", type);
         setIsLoading(true);
+        console.log(`${baseUrl}${type}`);
         const response= await fetch(`${baseUrl}${type}`, {
             method: 'GET',
             headers: {
