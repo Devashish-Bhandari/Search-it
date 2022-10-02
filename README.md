@@ -1,6 +1,10 @@
 # Search it 
 
+<<<<<<< HEAD
 **Website Link- [https://search-it-web.netlify.app/](https://search-it-web.netlify.app/)**
+=======
+Website Link- [https://search-it-web.netlify.app/](https://search-it-web.netlify.app/)
+>>>>>>> f84c21468e4799294da5a56ce5ce7144b39d96b7
 
 **'Search it'** allows you to search anything acrosss the internet, be it images, blogs, videos, or news.
 
@@ -10,6 +14,10 @@ It has both **'Light'** and **'Dark'** Modes making it user friendly.
 
 The website is built on **React** and the search results are fetched using the **API** - [Google Search](https://rapidapi.com/apigeek/api/google-search3?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) by [apigeek](https://rapidapi.com/user/apigeek).
 
-##### The Results
+#### Tech Stack Used
+* React
+* Tailwind CSS
+
+#### The Results
 
 ![1656241078667](image/README/1656241078667.png)        ![1656241089026](image/README/1656241089026.png)
