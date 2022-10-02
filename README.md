@@ -1,10 +1,9 @@
 # Search it 
 
-<<<<<<< HEAD
+
 **Website Link- [https://search-it-web.netlify.app/](https://search-it-web.netlify.app/)**
 =======
 Website Link- [https://search-it-web.netlify.app/](https://search-it-web.netlify.app/)
->>>>>>> f84c21468e4799294da5a56ce5ce7144b39d96b7
 
 **'Search it'** allows you to search anything acrosss the internet, be it images, blogs, videos, or news.
 
